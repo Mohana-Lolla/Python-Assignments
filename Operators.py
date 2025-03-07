@@ -37,7 +37,9 @@ print("a >= b:", a >= b)
 ##5.Print the smaller and larger number
 m = int(input())
 n = int(input())
-smaller = min(m,n)
-larger = max(m,n)
-print('Larger number is ', larger)
-print('Smaller number is ', smaller)
+if a < b:
+    smaller, larger = m, n
+else:
+    smaller, larger = n, m
+print("Smaller number:", smaller)
+print("Larger number:", larger)
