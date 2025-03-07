@@ -2,10 +2,11 @@
 print('Lolla Mohana Lakshmi')
 
 #2.Write a program for a Single line comment and multi-line comments
-# This is a single-line comment in Python
+
+# This is a single line comment. 
 """
-This is a multi-line comment.
-You can use it to explain code in detail.
+This is Python assignment on basics.
+Python has Multi-line comments.
 """
 
 #3.Define variables for different Data Types int, Boolean, char, float, double and print on the
